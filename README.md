@@ -42,6 +42,10 @@ Enable the extension
 
 ![Screen Shot 2564-11-07 at 1 58 14 PM](https://user-images.githubusercontent.com/46888825/140635636-54409af9-62b9-4bf4-ba5b-65736d0b648b.png)
 
+You will get this warning, click `Turn On`
+
+![Screen Shot 2564-11-07 at 1 58 44 PM](https://user-images.githubusercontent.com/46888825/140635821-2c3a852c-606c-4e3d-976a-3f2eb812b860.png)
+
 After you enabled it, click on the Userscript icon
 
 ![Screen Shot 2564-11-07 at 1 43 30 PM](https://user-images.githubusercontent.com/46888825/140635228-528e680f-f8c6-48da-bb8a-d46b31668340.png)
