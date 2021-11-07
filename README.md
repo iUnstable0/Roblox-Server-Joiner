@@ -17,7 +17,7 @@ If you are using Chromium Browsers, you will be redirected to installation page 
 
 Click Install
 
-![Screen Shot 2564-11-07 at 2 02 30 PM](https://user-images.githubusercontent.com/46888825/140635749-39bf3124-f56a-4ee1-a128-5de11bfbd10e.png)
+![Screen Shot 2564-11-07 at 2 25 42 PM](https://user-images.githubusercontent.com/46888825/140636320-cb85f81d-6000-43be-a144-943ad0e372fc.png)
 
 For Safari, After installing the extension please press `Command + ,` to open Preferences
 (or click on `Safari` on the menubar and click `Preferences`)
@@ -72,7 +72,7 @@ And select New JavaScript
 
 Remove everything in the editor and copy paste this [code](https://raw.githubusercontent.com/Unstable0/Roblox-Server-Joiner/main/roblox-server-joiner.user.js)
 
-![Screen Shot 2564-11-07 at 1 50 43 PM](https://user-images.githubusercontent.com/46888825/140635427-409b44f0-0621-477c-b5a9-935eb8d0d52b.png)
+![Screen Shot 2564-11-07 at 2 26 52 PM](https://user-images.githubusercontent.com/46888825/140636340-4f922257-9a37-456f-83ff-94a3168066dc.png)
 
 On bottom right corner, click Save
 
