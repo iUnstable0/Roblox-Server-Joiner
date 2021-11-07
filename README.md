@@ -41,7 +41,6 @@ Find the extension `Userscript`
 Enable the extension
 
 ![Screen Shot 2564-11-07 at 1 58 14 PM](https://user-images.githubusercontent.com/46888825/140635636-54409af9-62b9-4bf4-ba5b-65736d0b648b.png)
-![Screen Shot 2564-11-07 at 1 58 14 PM](https://user-images.githubusercontent.com/46888825/140635644-cd6b05fd-51d2-454f-8601-f603d5654ab2.png)
 
 After you enabled it, click on the Userscript icon
 
