@@ -20,7 +20,7 @@ function urlSearchParams(search) {
     };
 };
 
-function document.body.onload() {
+document.body.onload = function() {
     const placeId = urlSearchParams("placeid");
     const jobId = urlSearchParams("jobid");
   
