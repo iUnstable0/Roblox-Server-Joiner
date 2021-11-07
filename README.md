@@ -56,7 +56,7 @@ Make sure enable injection is turned on
 
 click Open
 
-![Screen Shot 2564-11-07 at 1 43 30 PM](https://user-images.githubusercontent.com/46888825/140635297-24277581-9a73-46dd-9049-372e5b5ef199.png)
+![Screen Shot 2564-11-07 at 1 45 33 PM](https://user-images.githubusercontent.com/46888825/140635837-0dfbd5d6-b758-4667-bd97-f63ee5cac6f8.png)
 
 After you click Open you will see this Page
 
