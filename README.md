@@ -15,7 +15,29 @@ After you installed the extension, Click [here](https://raw.githubusercontent.co
 
 If you are using Chromium Browsers, you will be redirected to installation page after clicking on that link.
 
-For Safari, Press `Command + ,` to open Preferences, go to Extensions and enable `Userscripts` extension.
+For Safari, Press `Command + ,` to open Preferences
+(or click on `Safari` on the menubar and click `Preferences`)
+
+![Screen Shot 2564-11-07 at 1 54 48 PM](https://user-images.githubusercontent.com/46888825/140635569-2c2b0818-3510-4e29-bbdd-48a941bef7fd.png)
+![Screen Shot 2564-11-07 at 1 55 03 PM](https://user-images.githubusercontent.com/46888825/140635573-31711da0-154e-4b1d-94d6-f7203d54ef0e.png)
+
+This window will pop up
+
+![Screen Shot 2564-11-07 at 1 55 30 PM](https://user-images.githubusercontent.com/46888825/140635580-7890b26f-5f09-485e-8cd9-022f5fa0190f.png)
+
+Now go to Extensions
+
+![Screen Shot 2564-11-07 at 1 56 42 PM](https://user-images.githubusercontent.com/46888825/140635601-47d9cc52-1104-4abd-8f28-d0dc1340c6f9.png)
+
+Find the extension `Userscript`
+
+![Screen Shot 2564-11-07 at 1 57 26 PM](https://user-images.githubusercontent.com/46888825/140635628-a6bbe00e-b4a7-45d6-a4f4-29773dfd1d62.png)
+
+Enable the extension
+
+![Screen Shot 2564-11-07 at 1 58 14 PM](https://user-images.githubusercontent.com/46888825/140635636-54409af9-62b9-4bf4-ba5b-65736d0b648b.png)
+![Screen Shot 2564-11-07 at 1 58 14 PM](https://user-images.githubusercontent.com/46888825/140635644-cd6b05fd-51d2-454f-8601-f603d5654ab2.png)
+
 After you enabled it, click on the Userscript icon
 
 ![Screen Shot 2564-11-07 at 1 43 30 PM](https://user-images.githubusercontent.com/46888825/140635228-528e680f-f8c6-48da-bb8a-d46b31668340.png)
@@ -24,7 +46,7 @@ Make sure enable injection is turned on
 
 ![Screen Shot 2564-11-07 at 1 52 06 PM](https://user-images.githubusercontent.com/46888825/140635484-5ce5801c-13da-4c25-81f1-9b3efbcd4cf6.png)
 
-then click Open
+click Open
 
 ![Screen Shot 2564-11-07 at 1 43 30 PM](https://user-images.githubusercontent.com/46888825/140635297-24277581-9a73-46dd-9049-372e5b5ef199.png)
 
