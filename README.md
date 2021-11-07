@@ -15,7 +15,11 @@ After you installed the extension, Click [here](https://raw.githubusercontent.co
 
 If you are using Chromium Browsers, you will be redirected to installation page after clicking on that link.
 
-For Safari, Press `Command + ,` to open Preferences
+Click Install
+
+![Screen Shot 2564-11-07 at 2 02 30 PM](https://user-images.githubusercontent.com/46888825/140635749-39bf3124-f56a-4ee1-a128-5de11bfbd10e.png)
+
+For Safari, After installing the extension please press `Command + ,` to open Preferences
 (or click on `Safari` on the menubar and click `Preferences`)
 
 ![Screen Shot 2564-11-07 at 1 54 48 PM](https://user-images.githubusercontent.com/46888825/140635569-2c2b0818-3510-4e29-bbdd-48a941bef7fd.png)
