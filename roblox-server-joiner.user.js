@@ -9,7 +9,7 @@
 // ==/UserScript==
 
 function urlSearchParams(search) {
-    const query = window.location.search.split("&");
+    const query = window.location.search.substring(1).split("&");
   
     for (let index = 0; index < query.length; index++) {
         const queryName = query[index].split("=");
