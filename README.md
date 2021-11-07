@@ -23,6 +23,7 @@ For Safari, After installing the extension please press `Command + ,` to open Pr
 (or click on `Safari` on the menubar and click `Preferences`)
 
 ![Screen Shot 2564-11-07 at 1 54 48 PM](https://user-images.githubusercontent.com/46888825/140635569-2c2b0818-3510-4e29-bbdd-48a941bef7fd.png)
+
 ![Screen Shot 2564-11-07 at 1 55 03 PM](https://user-images.githubusercontent.com/46888825/140635573-31711da0-154e-4b1d-94d6-f7203d54ef0e.png)
 
 This window will pop up
