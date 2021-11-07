@@ -87,4 +87,4 @@ This will automatically launch Roblox like VIP server link does.
 
 ## Examples
 
-- [https://www.roblox.com/home__**?placeid=663655429&jobid=956650df-5554-453a-adc7-9cf67600a9c9**__](https://www.roblox.com/home?placeid=663655429&jobid=956650df-5554-453a-adc7-9cf67600a9c9)
+- [https://www.roblox.com/home**?placeid=663655429&jobid=956650df-5554-453a-adc7-9cf67600a9c9**](https://www.roblox.com/home?placeid=663655429&jobid=956650df-5554-453a-adc7-9cf67600a9c9)
