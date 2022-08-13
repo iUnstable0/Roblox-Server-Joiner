@@ -82,9 +82,9 @@ On bottom right corner, click Save
 
 ## Usage
 
-Add `?placeid=PLACE_ID_HERE&jobid=JOB_ID_HERE` to the URL `https://www.roblox.com/home` on your web browsers search bar and press Enter
+Add `?placeId=PLACE_ID_HERE&jobId=JOB_ID_HERE` to the URL `https://www.roblox.com/home` on your web browsers search bar and press Enter
 This will automatically launch Roblox like VIP server link does.
 
 ## Examples
 
-- [https://www.roblox.com/home?placeid=663655429&jobid=956650df-5554-453a-adc7-9cf67600a9c9](https://www.roblox.com/home?placeid=663655429&jobid=956650df-5554-453a-adc7-9cf67600a9c9)
+- [https://www.roblox.com/home?placeid=663655429&jobid=956650df-5554-453a-adc7-9cf67600a9c9](https://www.roblox.com/home?placeId=663655429&jobId=956650df-5554-453a-adc7-9cf67600a9c9)
