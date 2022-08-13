@@ -24,7 +24,11 @@ document.body.onload = function() {
     const placeId = urlSearchParams("placeid");
     const jobId = urlSearchParams("jobid");
   
-    if (placeId && jobId){
-        Roblox.GameLauncher.joinGameInstance(placeId, jobId);
+    if (placeId){
+        if (jobId) {
+            Roblox.GameLauncher.joinGameInstance(placeId, jobId);
+        } else {
+            Roblox.GameLauncher.joinMultiplayerGame(placeId);
+        };
     };
 };
