@@ -23,8 +23,8 @@ function urlSearchParams(search) {
 document.body.onload = function() {
     console.log("Load")
     
-    const placeId = urlSearchParams("placeid");
-    const jobId = urlSearchParams("jobid");
+    const placeId = urlSearchParams("placeId");
+    const jobId = urlSearchParams("jobId");
   
     if (placeId){
         if (jobId) {
