@@ -1,11 +1,9 @@
 // ==UserScript==
 // @name         Roblox-Server-Joiner
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  Join specific roblox servers with Job ID.
-// @author       Unstable0
-// @match        https://*.roblox.com/home*
-// @grant        none
+// @version      1.2
+// @description  Join specific Roblox servers with Place ID and Job ID.
+// @author       iUnstable0
+// @match        https://*.roblox.com/*
 // ==/UserScript==
 
 function urlSearchParams(search) {
