@@ -14,21 +14,27 @@ function urlSearchParams(search) {
       
         if (queryName[0] == search){
             return queryName[1];
-        };
-    };
-};
+        }
+    }
+}
 
 document.body.onload = function() {
     console.log("Load")
     
     const placeId = urlSearchParams("placeId");
     const jobId = urlSearchParams("jobId");
+
+    const join = urlSearchParams("privateServerLinkCode");
   
-    if (placeId){
+    if (placeId) {
         if (jobId) {
             Roblox.GameLauncher.joinGameInstance(placeId, jobId);
         } else {
             Roblox.GameLauncher.joinMultiplayerGame(placeId);
-        };
-    };
+        }
+    } else if (join) {
+        if (join.starsWith("quickJoin_") && join.endsWith("_")) {
+            Roblox.GameLauncher.joinMultiplayerGame(join.split("_")[1]);
+        }
+    }
 };
