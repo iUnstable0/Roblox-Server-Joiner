@@ -33,7 +33,7 @@ document.body.onload = function() {
             Roblox.GameLauncher.joinMultiplayerGame(placeId);
         }
     } else if (join) {
-        if (join.starsWith("quickJoin_") && join.endsWith("_")) {
+        if (join.startsWith("quickJoin_") && join.endsWith("_")) {
             Roblox.GameLauncher.joinMultiplayerGame(join.split("_")[1]);
         }
     }
