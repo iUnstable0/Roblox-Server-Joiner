@@ -23,8 +23,6 @@ document.body.onload = function() {
     
     const placeId = urlSearchParams("placeId");
     const jobId = urlSearchParams("jobId");
-
-    const join = urlSearchParams("privateServerLinkCode");
   
     if (placeId) {
         if (jobId) {
@@ -32,9 +30,5 @@ document.body.onload = function() {
         } else {
             Roblox.GameLauncher.joinMultiplayerGame(placeId);
         }
-    } else if (join) {
-        if (join.startsWith("quickJoin_") && join.endsWith("_")) {
-            Roblox.GameLauncher.joinMultiplayerGame(join.split("_")[1]);
-        }
-    }
+    };
 };
