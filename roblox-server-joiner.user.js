@@ -7,28 +7,32 @@
 // ==/UserScript==
 
 function urlSearchParams(search) {
-    const query = window.location.search.substring(1).split("&");
-  
-    for (let index = 0; index < query.length; index++) {
-        const queryName = query[index].split("=");
-      
-        if (queryName[0] == search){
-            return queryName[1];
-        }
-    }
+	const query = window.location.search.substring(1).split("&");
+
+	for (let index = 0; index < query.length; index++) {
+		const queryName = query[index].split("=");
+
+		if (queryName[0] == search) {
+			return queryName[1];
+		}
+	}
 }
 
-document.body.onload = function() {
-    console.log("Load")
-    
-    const placeId = urlSearchParams("placeId");
-    const jobId = urlSearchParams("jobId");
-  
-    if (placeId) {
-        if (jobId) {
-            Roblox.GameLauncher.joinGameInstance(placeId, jobId);
-        } else {
-            Roblox.GameLauncher.joinMultiplayerGame(placeId);
-        }
-    };
+document.body.onload = function () {
+	console.log("Load");
+
+	const placeId = urlSearchParams("placeId");
+	const jobId = urlSearchParams("jobId");
+
+	if (placeId) {
+		if (jobId) {
+			Roblox.GameLauncher.joinGameInstance(placeId, jobId).then(() => {
+                window.close();
+            })
+		} else {
+			Roblox.GameLauncher.joinMultiplayerGame(placeId).then(() => {
+                window.close();
+            })
+		}
+	}
 };
